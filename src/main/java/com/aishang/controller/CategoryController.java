@@ -18,6 +18,8 @@ public class CategoryController {
 
 
     @Resource
+
+
     private IProductService productService;
     @Resource
     private ICategoryService categoryService;
